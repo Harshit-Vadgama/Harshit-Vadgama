@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there, I'm [Harshit Vadgama]!
 
-<!--
-**Harshit-Vadgama/Harshit-Vadgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)
+  
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **[B.C.A]**
+- 📫 How to reach me: **[harshitvadgama77@gmail.com]**
+- 📎 LinkedIn : **[https://www.linkedin.com/in/harshit-vadgama-b56b54368]**
+- ⚡ Fun fact: **[I'm An Cloud Enthusiast☁]**
+
+
+  ⭐️ From [Harshit Vadgama](https://github.com/Harshit-Vadgama)
