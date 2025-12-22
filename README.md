@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm [Harshit Vadgama]!
+## 👋 Hi there, I'm Harshit Vadgama!
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning **[B.C.A]**
+- 🌱 I'm currently learning **B.C.A**
 - 📫 How to reach me: **[harshitvadgama77@gmail.com]**
 - 📎 LinkedIn : **[https://www.linkedin.com/in/harshit-vadgama-b56b54368]**
 - ⚡ Fun fact: **[I'm An Cloud Enthusiast☁]**
