@@ -11,7 +11,6 @@
 - 🌱 I'm currently learning **B.C.A**
 - 📫 How to reach me: **[harshitvadgama77@gmail.com]**
 - 📎 LinkedIn : **[https://www.linkedin.com/in/harshit-vadgama-b56b54368]**
-- X Profile : **[https://x.com/HarshitZ7]**
 - LeetCode : **[https://leetcode.com/u/Harshit_Vadgama03/]**
 - ⚡ Fun fact: **[I'm An Cloud Enthusiast☁]**
 
