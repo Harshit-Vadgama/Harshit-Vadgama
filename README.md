@@ -12,7 +12,7 @@
 - 📫 How to reach me: **[harshitvadgama77@gmail.com]**
 - 📎 LinkedIn : **[https://www.linkedin.com/in/harshit-vadgama-b56b54368]**
 - LeetCode : **[https://leetcode.com/u/Harshit_Vadgama03/]**
-- ⚡ Fun fact: **[I'm An Cloud Enthusiast☁]**
+- ⚡ Fun fact: **[I'm An Cyber Enthusiast]**
 
 
   ⭐️ From [Harshit Vadgama](https://github.com/Harshit-Vadgama)
