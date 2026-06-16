@@ -1,4 +1,4 @@
-# Hi there, I'm Harshit Vadgama! 👋
+# Hi there, I'm [Your Name]! 👋
 ### 🛡️ Cybersecurity Student & Tech Enthusiast
 
 - 🎯 **Current Focus:** Building strong foundations in Computer Networking, Operating Systems, and Hardware basics.
@@ -8,48 +8,32 @@
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Java" />
-</p>
+![C](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
 
 ### 🛠️ Foundations I am Mastering Right Now
 
-<p align="left">
-  <!-- Networking -->
-  <img src="https://shields.io💻_Core_Fundamentals-blue?style=for-the-badge" alt="Networking" />
-  <!-- Hardware -->
-  <img src="https://shields.io🔌_Architecture-orange?style=for-the-badge" alt="Hardware" />
-</p>
+![Networking](https://shields.io💻_Core_Fundamentals-blue?style=for-the-badge)
+![Hardware](https://shields.io🔌_Architecture-orange?style=for-the-badge)
 
 #### Operating Systems Knowledge
-<p align="left">
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Windows" />
-</p>
+![Linux](https://shields.io)
+![Windows](https://shields.io)
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="left">
-  <a href="[https://linkedin.com](https://linkedin.com/in/harshit-vadgama-b56b54368)" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="[https://medium.com](https://medium.com/@harshitvadgama)" target="_blank">
-    <img src="https://shields.io" alt="Medium" />
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/harshit-vadgama-b56b54368)
+[![Medium](https://shields.io)]([https://medium.com](https://medium.com/@harshitvadgama))
 
 ---
 
 ### 📊 GitHub Activity
-<p align="left">
-  <img src="Harshit-Vadgama" alt="Your GitHub Stats" />
-</p>
+![Your GitHub Stats](Harshit-Vadgama)
 
 ---
 
 ### 🌐 My Profiles
-* **GitHub:** [https://://github.com](https://github.com/Harshit-Vadgama)
+* **GitHub:** [https://github.com](https://://github.com)
