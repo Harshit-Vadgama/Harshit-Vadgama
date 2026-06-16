@@ -12,7 +12,11 @@
 - 📫 How to reach me: **[harshitvadgama77@gmail.com]**
 - 📎 LinkedIn : **[https://www.linkedin.com/in/harshit-vadgama-b56b54368]**
 - LeetCode : **[https://leetcode.com/u/Harshit_Vadgama03/]**
-- ⚡ Fun fact: **[I'm An Cyber Enthusiast]**
 
+### 💻 Languages & Tech Stack
+
+![C](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
 
   ⭐️ From [Harshit Vadgama](https://github.com/Harshit-Vadgama)
