@@ -28,7 +28,7 @@
 ### 🔗 Connect With Me
 
 * 💼 **LinkedIn Profile:** [Click Here to View My LinkedIn](https://linkedin.com/in/harshit-vadgama-b56b54368)
-* 📝 **Medium Blog:** [Click Here to Read My Articles](https://medium.com/@harshitvadgam)
+* 📝 **Medium Blog:** [Click Here to Read My Articles](https://medium.com/@harshitvadgama)
 
 ---
 
