@@ -1,6 +1,8 @@
 # Hi there, I'm Harshit Vadgama! 👋
 ### 🛡️ Cybersecurity Student & Tech Enthusiast
 
+![Typewriter Effect](https://demolab.com)
+
 - 🎯 **Current Focus:** Building strong foundations in Computer Networking, Operating Systems, and Hardware basics.
 - ✍️ **Writing:** I document my tech journey and foundational notes on my Medium Blog.
 
