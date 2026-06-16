@@ -1,22 +1,55 @@
-## 👋 Hi there, I'm Harshit Vadgama!
+# Hi there, I'm Harshit Vadgama! 👋
+### 🛡️ Cybersecurity Student & Tech Enthusiast
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Open+Source+Enthusiast;Always+Learning+New+Things;Cyber+Security+Enthusiast)
-  
-</div>
+- 🎯 **Current Focus:** Building strong foundations in Computer Networking, Operating Systems, and Hardware basics.
+- ✍️ **Writing:** I document my tech journey and foundational notes on my [Medium Blog](https://medium.com/@harshitvadgama).
 
-## 🚀 About Me
+---
 
-- 🌱 I'm currently learning **B.C.A**
-- 📫 How to reach me: **[harshitvadgama77@gmail.com]**
-- 📎 LinkedIn : **[https://www.linkedin.com/in/harshit-vadgama-b56b54368]**
-- LeetCode : **[https://leetcode.com/u/Harshit_Vadgama03/]**
+### 💻 Programming Languages
 
-### 💻 Languages & Tech Stack
+<p align="left">
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Java" />
+</p>
 
-![C](https://shields.io)
-![Python](https://shields.io)
-![Java](https://shields.io)
+### 🛠️ Foundations I am Mastering Right Now
 
-  ⭐️ From [Harshit Vadgama](https://github.com/Harshit-Vadgama)
+<p align="left">
+  <!-- Networking -->
+  <img src="https://shields.io💻_Core_Fundamentals-blue?style=for-the-badge" alt="Networking" />
+  <!-- Hardware -->
+  <img src="https://shields.io🔌_Architecture-orange?style=for-the-badge" alt="Hardware" />
+</p>
+
+#### Operating Systems Knowledge
+<p align="left">
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Windows" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="[https://linkedin.com](https://linkedin.com/in/harshit-vadgama-b56b54368)" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="[https://medium.com](https://medium.com/@harshitvadgama)" target="_blank">
+    <img src="https://shields.io" alt="Medium" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img src="Harshit-Vadgama" alt="Your GitHub Stats" />
+</p>
+
+---
+
+### 🌐 My Profiles
+* **GitHub:** [https://://github.com](https://github.com/Harshit-Vadgama)
