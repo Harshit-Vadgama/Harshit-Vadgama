@@ -33,4 +33,4 @@
 ---
 
 ### 🌐 My GitHub Profile
-* **GitHub Link:** [://github.com](https://://github.com)
+* **GitHub Link:** [GitHub Account](https://github.com/Harshit-Vadgama)
