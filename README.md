@@ -16,6 +16,7 @@
 - **C Language**
 - **Python**
 - **Java**
+- **SQL**
 
 ### 🛠️ Foundations I am Mastering Right Now
 
