@@ -1,9 +1,10 @@
 # Hi there, I'm Harshit Vadgama! 👋
-### 🛡️ Cybersecurity Student & Tech Enthusiast
 
-<div align="center">
+###<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Always+Learning+New+Things;Analyzing+Threats+%26+Securing+Systems" alt="Typing Effect" />
 </div>
+
+### 🛡️ Cybersecurity Student & Tech Enthusiast
 
 - 🎯 **Current Focus:** Building strong foundations in Computer Networking, Operating Systems, and Hardware basics.
 - ✍️ **Writing:** I document my tech journey and foundational notes on my Medium Blog.
